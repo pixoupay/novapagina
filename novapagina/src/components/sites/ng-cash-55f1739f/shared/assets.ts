@@ -1,0 +1,36 @@
+// Local asset paths for the ng.cash homepage clone.
+// Source: https://www.ng.cash/ (research: docs/research/ng-cash-55f1739f/root-8a5edab2/)
+export const A = "/sites/ng-cash-55f1739f/root-8a5edab2";
+
+export const assets = {
+  logo: `${A}/logo.svg`,
+  nave: `${A}/nave.svg`,
+  heroIllos: `${A}/hero-illos-v3-camada-3.svg`,
+  boy: `${A}/boy.svg`,
+  logoAnimada: `${A}/logo-animada.json`,
+  gifScrollSeta: `${A}/gif-scroll-seta.webp`,
+  cartaoSlide: `${A}/cartao-slide.json`,
+  skinSectionBg: `${A}/skin-section-illos-bg01.svg`,
+  phoneOverview: `${A}/site2025-frame-overviewapp2-5-ezgif-com-optimize.gif`,
+  videoCapcutMp4: `${A}/video-capcut-1-transcode.mp4`,
+  videoCapcutPoster: `${A}/video-capcut-1-poster-00001.jpg`,
+  video0124Mp4: `${A}/video-0124-transcode.mp4`,
+  video0124Poster: `${A}/video-0124-poster-00001.jpg`,
+  pixSectionV1: `${A}/pix-section-v1.svg`,
+  cartaoPersonalizado: `${A}/cartao-personalizado.gif`,
+  googlePay: `${A}/google-pay.svg`,
+  applePay: `${A}/apple-pay.svg`,
+  appleStore: `${A}/apple-store.svg`,
+  googleStore: `${A}/google-store.svg`,
+  iconInstagram: `${A}/icon-instagram.svg`,
+  iconTiktok: `${A}/icon-tiktok.svg`,
+  qrcode: `${A}/qrcode-1.svg`,
+  featureIllos: `${A}/feature-section-illos.svg`,
+  featureIllosSkins: `${A}/feature-section-illos-skins.svg`,
+  mockupFeature: `${A}/mockup-feature-section-1.svg`,
+  ilustraMenuPix: `${A}/ilustra-menu-pix.svg`,
+  ilustraMenuMesada: `${A}/ilustracao-menu-mesada.svg`,
+  ilustraMenuNgcard: `${A}/ilustra-menu-ngcard-1.svg`,
+  ilustraMenuNgzap: `${A}/ilustra-menu-ngzap.svg`,
+  ilustraMenuCofrinho: `${A}/ilustracao-menu-cofrinho.svg`,
+};
